@@ -9,7 +9,7 @@ Human health has long been the focus of society and the media. Health is directl
 In order to replicate or run any of the code described here the user must have a conda environment installed as well as Qiime2. Requirements for package installation will vary per device. 
 
 
-#### Data: 
+### Data: 
 
 Description and location of all sequences used in this project can be found in the Project_Data folder. The raw sequences were too large to store on GitHub.
 
